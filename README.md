@@ -8,7 +8,6 @@
 <br>
 <br>
 <br>
-<br>
 
 💻 Computer Science Student @ Caucasus University  
 🔥 Passionate about turning ideas into real software  
