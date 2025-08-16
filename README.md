@@ -5,10 +5,20 @@
 
 <img align="right" width=350px alt="guy" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdma2J2ejhoMWlucXduYnV2d3pmZnJ0NWRvYXRkbnBnem1qYzJvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/E4kjYvAnTjh45ML3TO/giphy.gif"/>
 
-💻 Computer Science Student @ Caucasus University  
-🐍 Python • ⚙️ C# • .NET • 💡 JavaScript • 🗄️ SQL  
-🚀 Learning by building & open to collaboration
+<br>
+<br>
+<br>
+<br>
 
+💻 Computer Science Student @ Caucasus University  
+🔥 Passionate about turning ideas into real software  
+🚀 Currently exploring backend & full-stack development and leveling up my problem-solving skills  
+💡 I believe the best way to learn is by building real, meaningful projects  
+🤝 Open to collaboration, knowledge sharing and working on exciting projects with other developers
+<br>
+<br>
+<br>
+<br>
 <img src="https://pacman.abozanona.me?username=Gl1tCh1121" />
 
 
