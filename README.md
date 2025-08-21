@@ -18,7 +18,6 @@
 <br>
 <br>
 <br>
-<img src="https://pacman.abozanona.me?username=Gl1tCh1121" />
 
 
 
@@ -28,7 +27,7 @@
 <br>
 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5nYWRvc3kydjQ1MzIwcWtpc2d0ZDY2Z3hnODhvczJnN3AxczRncSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif" alt="phone" width="40">***Social Links*** -->
+***Social Links:***
 
 <div align="center">
 
@@ -43,13 +42,15 @@
 
 
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40">&nbsp; ***Skills***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
 
-### Languages and Tools:
+
+
+***Languages and Tools:***
+<br>
+<br>
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="padding-right:10px;  width:50px;"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;  width:50px;" />
