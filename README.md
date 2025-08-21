@@ -6,12 +6,10 @@
 <br>
 <br>
 <br>
-
-💻 Computer Science Student @ Caucasus University  
-🔥 Passionate about turning ideas into real software  
-🚀 Currently exploring backend & full-stack development and leveling up my problem-solving skills  
-💡 I believe the best way to learn is by building real, meaningful projects  
-🤝 Open to collaboration, knowledge sharing and working on exciting projects with other developers
+<b>💻I’m a Computer Science student at Caucasus University, passionate about building meaningful projects,
+continuously improving my problem-solving abilities, and exploring backend and full-stack development,
+collaborating with others, and sharing knowledge within the developer community.
+<b/>
 <br>
 <br>
 <br>
