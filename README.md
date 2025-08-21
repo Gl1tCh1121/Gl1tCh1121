@@ -1,7 +1,7 @@
 <h1><b>Hi there, I'm </b><a href="https://github.com/Gl1tCh1121">Giorgi Bolotashvili</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"></h1>
 <br>
 
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px>&nbsp;***About me***
+***About me***
 
 <img align="right" width=350px alt="guy" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdma2J2ejhoMWlucXduYnV2d3pmZnJ0NWRvYXRkbnBnem1qYzJvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/E4kjYvAnTjh45ML3TO/giphy.gif"/>
 
