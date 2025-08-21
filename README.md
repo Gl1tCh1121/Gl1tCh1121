@@ -1,8 +1,7 @@
 <h1><b>Hi there, I'm </b><a href="https://github.com/Gl1tCh1121">Giorgi Bolotashvili</a></h1>
 <br>
 
-***About me***
-
+**About me**
 
 <br>
 <br>
@@ -22,7 +21,7 @@
 
 <br> 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1><b></b></h1>
 <br>
 
 
@@ -36,15 +35,8 @@
 
  
 </div>
-
+<h1><b></b></h1>
 <br>
-
-
-
-
-
-
-
 
 
 ***Languages and Tools:***
@@ -61,17 +53,20 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px; width:50px;"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  style="padding-right:10px;  width:50px;" />
 
-
-
 <br>
 <br>
 <br>
 
+<h1><b></b></h1>
 
-<!-- Github Stats -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">&nbsp;***Github Stats***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
+<br>
+
+***Github Stats:***
+
+<br>
+<br>
+
 <p align="center">
 <table align="center">
 <tr>
