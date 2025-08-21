@@ -15,18 +15,14 @@ collaborating with others, and sharing knowledge within the developer community.
 <br>
 <br>
 
-
-
 <br> 
 <br>
 <h1><b></b></h1>
 <br>
 
-
 ***Social Links:***
 
 <div align="center">
-
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giobolotashvili1980@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgibolotashvili)
@@ -35,7 +31,6 @@ collaborating with others, and sharing knowledge within the developer community.
 </div>
 <h1><b></b></h1>
 <br>
-
 
 ***Languages and Tools:***
 <br>
@@ -82,13 +77,10 @@ collaborating with others, and sharing knowledge within the developer community.
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=Gl1tCh1121&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
     </a>
-    </div>   
+</div>   
 </p>
-
-
   
 <br>
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
