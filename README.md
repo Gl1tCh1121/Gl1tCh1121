@@ -6,7 +6,7 @@
 <br>
 <br>
 <br>
-<b>💻Computer Science student at Caucasus University, passionate about building meaningful projects,
+<b> 💻Computer Science student at Caucasus University, passionate about building meaningful projects,
 continuously improving problem-solving abilities, and exploring backend and full-stack development,
 collaborating with others, and sharing knowledge within the developer community.
 <b/>
