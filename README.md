@@ -1,4 +1,4 @@
-<h1><b>Hi there, I'm </b><a href="https://github.com/Gl1tCh1121">Giorgi Bolotashvili</a></h1>
+<h1><b>Hello world, I'm </b><a href="https://github.com/Gl1tCh1121">Giorgi Bolotashvili</a></h1>
 <br>
 
 **About me**
