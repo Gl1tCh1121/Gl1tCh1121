@@ -8,9 +8,19 @@
 <b> 💻Computer Science student at Caucasus University, passionate about building meaningful projects,
 continuously improving problem-solving abilities, and exploring backend and full-stack development,
 collaborating with others, and sharing knowledge within the developer community.
+
+
 <b/>
 <br>
 <br>
+
+<h1><b></b></h1>
+<br>
+
+### 🎯 Current Goals
+- Learn advanced Python and AI/ML concepts
+- Contribute to more open-source projects
+- Explore game development and automation
 
 <br> 
 <br>
@@ -20,7 +30,6 @@ collaborating with others, and sharing knowledge within the developer community.
 ***Social Links:***
 
 <div align="center">
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giobolotashvili1980@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgibolotashvili)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/justname1980)
