@@ -62,27 +62,7 @@ collaborating with others, and sharing knowledge within the developer community.
 <br>
 <br>
 
-***Github Stats:***
 
-<br>
-<br>
-
-<p align="center">
-<table align="center">
-<tr>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gl1tCh1121&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gl1tCh1121&theme=nightowl&hide_border=false" alt="Gl1tCh1121 streak" />
-</td>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Gl1tCh1121&theme=nightowl&hide_border=false&langs_count=10"/>
-</td>
-</tr>
-</table>
-
-</p>
-  
-<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
