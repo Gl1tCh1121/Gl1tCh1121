@@ -63,7 +63,11 @@ collaborating with others, and sharing knowledge within the developer community.
 
 <br>
 <br>
-
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gl1tch1121&show_icons=true&locale=en&theme=midnight-purple" alt="gl1tch1121" />
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gl1tch1121&theme=midnight-purple" alt="gl1tch1121" />
+</div>
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
